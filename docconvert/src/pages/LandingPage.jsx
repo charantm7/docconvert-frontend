@@ -23,7 +23,7 @@ import FeaturesSection from "../components/landing/FeaturesSection";
 import HowItWorksSection from "../components/landing/HowItWorksSection";
 import PricingSection from "../components/landing/PricingSection";
 
-// Landing Page Component
+
 export default function LandingPage({ navigate }) {
   return (
     <div className="min-h-screen">
